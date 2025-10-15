@@ -28,9 +28,7 @@ cafeteria-2025-master/
 │
 ├── index.html
 ├── styles.css
-├── responsividade.css
-└── .vscode/
-    └── settings.json
+
 ```
 
 ## 💻 Como usar
@@ -44,7 +42,7 @@ cafeteria-2025-master/
 
 ## 📱 Responsividade
 
-O site foi projetado para funcionar bem em diferentes tamanhos de tela. Veja as regras de responsividade em [`responsividade.css`](cafeteria-2025-master/responsividade.css).
+O site foi projetado para funcionar bem em diferentes tamanhos de tela. 
 
 ## 📧 Contato
 
