@@ -18,7 +18,7 @@ Site institucional fictício para a cafeteria **Café Allegro**, desenvolvido co
 
 - HTML5
 - CSS3
-- [Responsividade com Media Queries](cafeteria-2025-master/responsividade.css)
+- Responsivo
 - Google Maps Embed
 
 ## 📂 Estrutura de Pastas
