@@ -35,9 +35,9 @@ cafeteria-2025-master/
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/cafeteria-2025.git
+   git clone https://github.com/Renato-Rhuan/Caf--Allegro.git
    ```
-2. Abra a pasta `cafeteria-2025-master` no seu editor de código.
+2. Abra a pasta `Caf--Allegro` no seu editor de código.
 3. Abra o arquivo `index.html` em seu navegador ou utilize a extensão Live Server do VS Code.
 
 ## 📱 Responsividade
