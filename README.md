@@ -18,7 +18,7 @@ Site institucional fictício para a cafeteria **Café Allegro**, desenvolvido co
 
 - HTML5
 - CSS3
-- [Responsividade com Media Queries](cafeteria-2025-master/responsividade.css)
+- Responsivo
 - Google Maps Embed
 
 ## 📂 Estrutura de Pastas
@@ -28,23 +28,21 @@ cafeteria-2025-master/
 │
 ├── index.html
 ├── styles.css
-├── responsividade.css
-└── .vscode/
-    └── settings.json
+
 ```
 
 ## 💻 Como usar
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/cafeteria-2025.git
+   git clone https://github.com/Renato-Rhuan/Caf--Allegro.git
    ```
-2. Abra a pasta `cafeteria-2025-master` no seu editor de código.
+2. Abra a pasta `Caf--Allegro` no seu editor de código.
 3. Abra o arquivo `index.html` em seu navegador ou utilize a extensão Live Server do VS Code.
 
 ## 📱 Responsividade
 
-O site foi projetado para funcionar bem em diferentes tamanhos de tela. Veja as regras de responsividade em [`responsividade.css`](cafeteria-2025-master/responsividade.css).
+O site foi projetado para funcionar bem em diferentes tamanhos de tela. 
 
 ## 📧 Contato
 
